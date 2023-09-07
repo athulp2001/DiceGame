@@ -1,0 +1,47 @@
+.p1{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    color: rgb(0, 53, 0);
+    font-family: 'Orbitron', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+#DOne{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+}
+#img2{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+}
+.p2{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    color: rgb(0, 53, 0);
+    font-family: 'Orbitron', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+
+}
+.maindiv{
+margin: auto;
+  display: flex;
+    justify-content: space-between;
+    width: 400px;
+ 
+}
+.refresh{
+text-align: center;
+font-size: 35px;
+color: rgb(5, 79, 5);
+font-family: arial;
+}
+
+.refresh #hello{
+    color: rgb(214, 39, 9);
+
+}
